@@ -45,7 +45,7 @@
   </li>
 
   <li>
-    Matheus Henrique -
+    Matheus Henrique - @Mateus Diniz
   </li>
 
   <li>
