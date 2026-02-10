@@ -8,6 +8,20 @@
   <img src="img/logoprojeto.jpeg" width="220" alt="Logo do Projeto Capacita+">
 </p>
 
+<h2 align="center"> Arquitetura do Repositório (simplificada)<br>
+<img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=instructure&logoColor=white" 
+     style="vertical-align:middle; margin-left:5px;"/></h2>
+
+<pre>
+Certificado-Porto-Digital-CapacitaMais/
+├── img/
+│   ├── Certificado_PortoDigital.jpeg <img src="https://img.shields.io/badge/Images-JPEG-orange?style=for-the-badge&logo=google&logoColor=white" width="90">  
+│   ├── logoporto.jpeg <img src="https://img.shields.io/badge/Images-JPEG-orange?style=for-the-badge&logo=google&logoColor=white"width="90">
+│   └── logoprojeto.jpeg <img src="https://img.shields.io/badge/Images-JPEG-orange?style=for-the-badge&logo=google&logoColor=white"width="90">
+└── README.md <img src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=000000" height="15"/>
+</pre>
+
+
 <h2 align="center">📘 Projeto: Capacita+</h2>
 <h3 align="center">👥 Integrantes</h3>
 
