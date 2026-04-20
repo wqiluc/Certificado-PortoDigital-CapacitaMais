@@ -25,16 +25,16 @@ Certificado-Porto-Digital-CapacitaMais/
 <h2 align="center">📘 Projeto: Capacita+</h2>
 <h3 align="center">👥 Integrantes</h3>
 <ul>
-  <li><b>Lucas Paguetti Pereira (Eu)</b> <a href="https://www.linkedin.com/in/lucaspaguettipereira/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="https://github.com/wqiluc" target="_blank"><img src="https://img.shields.io/badge/GitHub-C0C0C0?style=for-the-badge&logo=github&logoColor=black" height="16"/></a></li>
+  <li><b>Lucas Paguetti Pereira (Eu)</b> <a href="https://www.linkedin.com/in/lucas-paguetti-pereira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="https://github.com/wqiluc" target="_blank"><img src="https://img.shields.io/badge/GitHub-C0C0C0?style=for-the-badge&logo=github&logoColor=black" height="16"/></a></li>
   <li>Eduardo de Souza Cavalcanti Junior <a href="https://www.linkedin.com/in/eduardoscavalcantij/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="https://github.com/eduardo-scavalcanti" target="_blank"><img src="https://img.shields.io/badge/GitHub-C0C0C0?style=for-the-badge&logo=github&logoColor=black" height="16"/></a></li>
   <li>Cauã Henrique Melo Almeida <a href="https://www.linkedin.com/in/caua-henrique-melo-almeida-b83744380/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a></li>
-  <li>João Pedro Arruda Guimarães <a href="https://www.linkedin.com/in/joão-pedro-arruda-guimarães-157952287/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a></li>
+  <li>João Pedro Arruda Guimarães <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-arruda-guimar%C3%A3es-157952287/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="https://github.com/Jp230603" target="_blank"><img src="https://img.shields.io/badge/GitHub-C0C0C0?style=for-the-badge&logo=github&logoColor=black" height="16"/></a></li>
   <li>Lucas Moreira de Carvalho</li>
-  <li>Maria Eduarda Vasconcelos <a href="https://www.linkedin.com/in/maria-eduarda-vasconcelos-5877401b7/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a></li>
-  <li>Matheus Henrique</li>
+  <li>Maria Eduarda Vasconcelos <a href="https://www.linkedin.com/in/maria-eduarda-vasconcelos-5877401b7/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="https://github.com/mariavsvasconcelos-maker" target="_blank"><img src="https://img.shields.io/badge/GitHub-C0C0C0?style=for-the-badge&logo=github&logoColor=black" height="16"/></a></li>
+  <li>Mateus Henrique Diniz da Silva</li>
   <li>Pablo Tamborini Nogueira <a href="https://www.linkedin.com/in/pablo-tamborini-nogueira/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a></li>
-  <li>Victor Barros Roma <a href="https://www.linkedin.com/in/victor-roma-38035a111/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a></li>
-  <li>Victor José Paes e Silva <a href="https://www.linkedin.com/in/viictorpaes/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a></li>
+  <li>Victor Barros Roma <a href="https://www.linkedin.com/in/victor-roma-38035a111/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="https://github.com/RomaNFS21" target="_blank"><img src="https://img.shields.io/badge/GitHub-C0C0C0?style=for-the-badge&logo=github&logoColor=black" height="16"/></a></li>
+  <li>Victor José Paes e Silva <a href="https://www.linkedin.com/in/viictorpaes/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="https://github.com/viictorpaes" target="_blank"><img src="https://img.shields.io/badge/GitHub-C0C0C0?style=for-the-badge&logo=github&logoColor=black" height="16"/></a></li>
 </ul>
 
 <p>
