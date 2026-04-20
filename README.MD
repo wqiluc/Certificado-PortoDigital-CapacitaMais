@@ -8,7 +8,8 @@
   <img src="img/logoprojeto.jpeg" width="220" alt="Logo do Projeto Capacita+">
 </p>
 
-<h2 align="center"><b>MVP do Capacita+ (v1.0.0)</b><img src="https://img.shields.io/badge/Versão-1.0.0-111827?style=flat-square" /></h2>
+<h2 align="center"><b>MVP do Capacita+ (v1.0.0)</b><br>
+<img src="https://img.shields.io/badge/Versão-1.0.0-111827?style=flat-square"/></h2>
 
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/viictorpaes/Capacita-Mais">🔗 Ver MVP ==> </a></p>
 <p align="center">Plataforma educacional inclusiva para alunos neurodivergentes.</p>
