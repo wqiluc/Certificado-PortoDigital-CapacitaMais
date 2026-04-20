@@ -8,13 +8,13 @@
   <img src="img/logoprojeto.jpeg" width="220" alt="Logo do Projeto Capacita+">
 </p>
 
-<h2 align="center"><b>MVP do Capacita+ (v1.0.0)</b></h2>
+<h2 align="center"><b>MVP do Capacita+ (v1.0.0)</b><img src="https://img.shields.io/badge/Versão-1.0.0-111827?style=flat-square" /></h2>
 
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/viictorpaes/Capacita-Mais">🔗 Ver MVP ==> </a></p>
 <p align="center">Plataforma educacional inclusiva para alunos neurodivergentes.</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/><br>
-  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" />
+ c
   <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" />
@@ -48,7 +48,6 @@ Certificado-Porto-Digital-CapacitaMais/
 </pre>
 
 
-<h2 align="center">📘 Projeto: Capacita+</h2>
 <h3 align="center">👥 Integrantes</h3>
 <ul>
   <li><b>Lucas Paguetti Pereira (Eu)</b> <a href="https://www.linkedin.com/in/lucas-paguetti-pereira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="https://github.com/wqiluc" target="_blank"><img src="https://img.shields.io/badge/GitHub-C0C0C0?style=for-the-badge&logo=github&logoColor=black" height="16"/></a></li>
